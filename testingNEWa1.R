@@ -1,0 +1,1 @@
+print("this is my first script on my new idea pad")
